@@ -18,6 +18,9 @@
 Окно состоит из списка ComboBox, в котором можно выбрать конкретную кодировку, и таблицы из символов в зависимости от выбранной кодировки. При нажатии на Combobox таблица автоматически меняется в зависимости от выьранной кодировки. В таблице указан сам символ и номер этого символа.
 Ниже будут представлены изображения:
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf1.png)
+(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf2.png)
+(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf3.png)
+(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf4.png)
 
 (Дать краткие сведения об использовании однобайтных кодировок в языке Си; в windows api)
 
