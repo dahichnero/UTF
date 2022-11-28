@@ -18,11 +18,10 @@
 Окно состоит из списка ComboBox, в котором можно выбрать конкретную кодировку, и таблицы из символов в зависимости от выбранной кодировки. При нажатии на Combobox таблица автоматически меняется в зависимости от выьранной кодировки. В таблице указан сам символ и номер этого символа.
 Ниже будут представлены изображения:
 <img src="https://github.com/dahichnero/thefirstkalculator/raw/main/wpf1.png" alt="Pull" />
-(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf1.png)
-(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf2.png)
-(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf3.png)
-(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf4.png)
-(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf5.png)
+<img src="https://github.com/dahichnero/thefirstkalculator/raw/main/wpf2.png" alt="Pull" />
+<img src="https://github.com/dahichnero/thefirstkalculator/raw/main/wpf3.png" alt="Pull" />
+<img src="https://github.com/dahichnero/thefirstkalculator/raw/main/wpf4.png" alt="Pull" />
+<img src="https://github.com/dahichnero/thefirstkalculator/raw/main/wpf5.png" alt="Pull" />
 
 Однобайтные кодировки используются много где, как например:
 1. В языке Си используется у типа char*. Используется библиотека string.h.
