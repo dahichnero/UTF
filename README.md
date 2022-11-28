@@ -21,6 +21,8 @@
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf2.png)
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf3.png)
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf4.png)
+(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf5.png)
+(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf6.png)
 
 (Дать краткие сведения об использовании однобайтных кодировок в языке Си; в windows api)
 
