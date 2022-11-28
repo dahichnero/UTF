@@ -17,15 +17,17 @@
 
 Окно состоит из списка ComboBox, в котором можно выбрать конкретную кодировку, и таблицы из символов в зависимости от выбранной кодировки. При нажатии на Combobox таблица автоматически меняется в зависимости от выьранной кодировки. В таблице указан сам символ и номер этого символа.
 Ниже будут представлены изображения:
+<img src="https://github.com/dahichnero/thefirstkalculator/raw/main/wpf1.png" alt="Pull" />
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf1.png)
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf2.png)
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf3.png)
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf4.png)
 (https://github.com/dahichnero/thefirstkalculator/raw/main/wpf5.png)
-(https://github.com/dahichnero/thefirstkalculator/raw/main/wpf6.png)
 
-(Дать краткие сведения об использовании однобайтных кодировок в языке Си; в windows api)
-
+Однобайтные кодировки используются много где, как например:
+1. В языке Си используется у типа char*. Используется библиотека string.h.
+2. В Windows Api используется в типах LPSTR и LPCSTR.
+3. При использовании однобайтных кодировок используются функции с суффиксом A.
 
 ### 2.2 Кодировка UTF-8
 
